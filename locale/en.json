@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Video Direction",
+    "description": "Code-native motion graphics studio. Create projects, edit scenes, preview with the Remotion player and export H.264 MP4. Agent tools: video_direction_project, video_direction_scene, video_direction_render. Projects are stored under ~/VideoDirection/projects.",
+    "detail": "docs/DETAIL.md"
+  }
+}

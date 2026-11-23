@@ -1,0 +1,24 @@
+{
+  "name": "video-direction-engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit -p tsconfig.json",
+    "build:client": "node scripts/build-client.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.545",
+    "@remotion/player": "4.0.545",
+    "@remotion/renderer": "4.0.545",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.545"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^19.0.0",
+    "esbuild": "0.28.2",
+    "typescript": "^5.7.0"
+  }
+}

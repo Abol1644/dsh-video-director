@@ -1,0 +1,4 @@
+- insert:
+    - id: video-direction
+      name: '@local/video-direction'
+      config: {}
